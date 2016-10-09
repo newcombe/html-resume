@@ -1,8 +1,8 @@
 #intro {
 	font-family: 'Trebuchet MS', Helvetica, sans-serif;
 	margin-top: 25px;
-	margin-left: 125px;
-	margin-right: 125px;
+	margin-left: 25px;
+	margin-right: 25px;
 	margin-bottom: 125px;
 	background-color: #A3E4D7;
 	text-align: left;
@@ -22,7 +22,7 @@ body {
 	margin-left: 125px;
 	margin-right: 125px;
 	text-align: left;
-	width: 75%;
+	width: 95%;
 }
 
 h1 {
