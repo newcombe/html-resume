@@ -3,10 +3,12 @@
 	margin-top: 25px;
 	margin-left: 125px;
 	margin-right: 125px;
+	margin-bottom: 125px;
 	background-color: #A3E4D7;
 	text-align: left;
 	border-bottom: 1px solid #999;
 	padding: 50px 50px 50px 50px;
+	border-radius: 10px;	
 }
 
 
@@ -16,10 +18,11 @@
 
 
 body {
-	height: 100%;
-	margin: 10;
+	margin-top: 25px;
+	margin-left: 125px;
+	margin-right: 125px;
 	text-align: left;
-	width: 100%;
+	width: 75%;
 }
 
 h1 {
