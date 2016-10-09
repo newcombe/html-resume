@@ -2,17 +2,14 @@
 	float: right;
 }
 
-#container {
+#intro {
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
 	margin-top: 25px;
 	margin-left: 125px;
 	margin-right: 125px;
-
-	padding: 10px 150px 10px 150px;
-
-	border-radius: 25px;
 	background-color: #A3E4D7;
-
 	text-align: left;
+	border-bottom: 1px solid #999;
 }
 
 }
@@ -25,17 +22,13 @@ body {
 }
 
 h1 {
-	font-size: 32px; font-family: Palatino, 'Palatino Linotype', serif; color: rgb(216,218,190);
+	font-size: 32px; font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 
 h2 {
 	font-size: 56px;
 }
 
-
-.hero {
-	font-family: 'Trebuchet MS', Helvetica, sans-serif;
-}
 
 
 p {
