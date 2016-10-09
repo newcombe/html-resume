@@ -27,11 +27,18 @@ h1 {
 }
 
 h2 {
-	font-size: 24px;
+	font-size: 24px; font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+
+h3 {
+	font-size: 20px; font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+
+p {
+  font-size: 18px; font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 
 
-
-p {
-  font-size: 18px;
+ul {
+  font-size: 18px; font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
